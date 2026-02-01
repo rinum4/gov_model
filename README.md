@@ -2,8 +2,7 @@
 
 This repository contains the simulation model used in the article:
 
-“Governability Under Continuous Disturbance: A System Dynamics Perspective”
-(submitted to *Systems Research and Behavioral Science*).
+“Governability Under Continuous Disturbance: A System Dynamics Perspective”.
 
 ## Overview
 
